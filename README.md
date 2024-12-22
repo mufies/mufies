@@ -1,9 +1,6 @@
 ### My stats
 
 
-
-
-
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
