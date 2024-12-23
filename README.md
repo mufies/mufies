@@ -1,11 +1,4 @@
 ### My stats
 
-
-<hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=walshiiro&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walshiiro&theme=dark&langs_count=8" />
-</a>
+[![walshiiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=walshiiro&count_private=true)](https://github.com/walshiiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walshiiro&layout=compact&langs_count=10)](https://github.com/walshiiro/github-readme-stats)
